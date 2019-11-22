@@ -1,0 +1,19 @@
+{
+  "name": "dylan",
+  "version": "1.0.0",
+  "main": "lib/main.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.3",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "syllable": "^4.0.0"
+  }
+}

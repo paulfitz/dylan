@@ -19,7 +19,7 @@ bash ./extend.sh I saw
 Result
 =======
 
-(Part Dylan, part network - can you tell which is which?) (of course you can)
+(Part Dylan, part network - can you tell which is which?) (of course you can) (I picked prompts for extend.sh, then pasted in the lines it flagged as good).
 
 ```
 Oh, where have you been, my blue-eyed son?

@@ -136,7 +136,7 @@ And it's a hard rain's a-gonna fall.
 And what'll you do now, my blue-eyed son?
 And what'll you do now my darling young one?
 I'm a-goin' back out 'fore the rain starts a-fallin'
-I'll walk to the deepths of the deepest black forest
+I'll walk to the depths of the deepest black forest
 Where the people are a many and their hands are all empty
 Where the pellets of poison are flooding their waters
 Where the home in the valley meets the damp dirty prison

@@ -8,12 +8,15 @@
     "build": "tsc"
   },
   "devDependencies": {
+    "@types/lodash": "4.14.117",
     "@types/node-fetch": "^2.5.3",
     "ts-node": "^8.5.2",
     "typescript": "^3.7.2"
   },
   "dependencies": {
+    "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
+    "rhyming-part": "^1.1.0",
     "syllable": "^4.0.0"
   }
 }

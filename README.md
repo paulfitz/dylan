@@ -161,3 +161,28 @@ But I'll know my songs well before I start singin'
 And it's a hard, it's a hard, it's a hard, and it's a hard
 It's a hard rain's a-gonna fall.
 ```
+
+Other applications
+====================
+
+Here's a rewrite of another random song (Lewis Capaldi - Someone You Loved),
+with the first half of every sentence kept unchanged, rhyming enforced,
+absolutely no cherry-picking:
+
+```
+I'm going under, and this time, I fear there's no one to save me
+This all or nothing really got a way of driving me crazy
+I need somebody to heal, somebody to know
+Somebody to have, somebody to hold
+It's easy to say, but it's never the same
+I guess I kinda liked the way you numbed all the pain
+```
+
+```
+I'm going under, and this time, I'm getting it in my body
+This all or nothing really got passed off as immortality
+I need somebody to stick a needle in the bone
+Somebody to have, somebody to let go
+It's easy to say, you know why you came
+I guess I kinda liked the start of the following day
+```
